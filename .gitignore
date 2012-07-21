@@ -2,5 +2,4 @@
 !.*
 !README
 !dotfiles
-!dotfiles/bash
-!dotfiles/vim
+!dotfiles/*
