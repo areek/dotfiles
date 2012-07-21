@@ -34,3 +34,9 @@
 [submodule "vim/bundle/snipmate-snippets"]
 	path = vim/bundle/snipmate-snippets
 	url = git://github.com/honza/snipmate-snippets.git
+[submodule "vim/bundle/ack"]
+	path = vim/bundle/ack
+	url = git://github.com/mileszs/ack.vim.git
+[submodule "vim/bundle/rope-omni"]
+	path = vim/bundle/rope-omni
+	url = git://github.com/rygwdn/rope-omni.git
