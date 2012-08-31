@@ -1,16 +1,3 @@
-Repo for my dotfiles:
-  - bashrc
-  - vimrc
-  - vim files
-
-Symblink for bash
-ln -s ~/dotfiles/bash/.bash_aliases ~/.bash_aliases
-ln -s ~/dotfiles/bash/.bashrc ~/.bashrc
-ln -s ~/dotfiles/bash/.bash_logout ~/.bash_logout
-ln -s ~/dotfiles/bash/.bash_profile ~/.bash_profile
-
-Vim conf setup
-
 ln -s ~/dotfiles/vim_conf/vim/janus/vim/vimrc ~/.vimrc
 ln -s ~/dotfiles/vim_conf/vim/janus/vim/gvimrc ~/.gvimrc
 ln -s ~/dotfiles/vim_conf/vim/janus/vim ~/.vim
