@@ -40,3 +40,6 @@
 [submodule "vim/bundle/rope-omni"]
 	path = vim/bundle/rope-omni
 	url = git://github.com/rygwdn/rope-omni.git
+[submodule "vim_conf/vim"]
+	path = vim_conf/vim
+	url = https://github.com/carlhuda/janus.git
