@@ -1,0 +1,17 @@
+colorscheme molokai
+"imap <buffer><Tab> <M-/>
+"autocmd FileType python set omnifunc=pythoncomplete#Complete
+"imap <buffer><Tab> <M-/>
+" Ack-vim setting
+let g:ackprg="ack-grep -H --nocolor --nogroup --column"
+" Rope-vim setting
+let $PYTHONPATH .= ":/home/areek/.janus/ropevim:/home/areek/.janus/ftplugin/python/ropevim.vim"
+source /home/areek/.janus/ropevim/ftplugin/python/ropevim.vim
+let ropevim_vim_completion=1
+" supertab settings
+let g:SuperTabDefaultCompletionType = "context"
+" rope-omni integration
+autocmd FileType python setlocal omnifunc=RopeCompleteFunc
+" call janus#add_mapping('gundo', 'nmap', '<F5>', :call PdbStartDebug(1, [])<CR>)
+" call janus#add_mapping('gundo', 'imap', '<F5>', <ESC>:call PdbStartDebug(1, [])<CR>)
+

@@ -1,8 +1,0 @@
-let g:netrw_dirhistmax  =10
-let g:netrw_dirhist_cnt =6
-let g:netrw_dirhist_1='/home/areek/Documents/algo_trading'
-let g:netrw_dirhist_2='/home/areek/Documents/algo_trading/Python'
-let g:netrw_dirhist_3='/home/areek/Documents/algo_trading'
-let g:netrw_dirhist_4='/home/areek/Documents/algo_trading/Python'
-let g:netrw_dirhist_5='/home/areek/Documents/algo_trading'
-let g:netrw_dirhist_6='/home/areek/Documents/algo_trading/Python'
